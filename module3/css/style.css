@@ -17,6 +17,8 @@ body {
 #header-nav button {
     margin-top: 22px;
 }
+.navbar-brand {
+    padding-top: -25px
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: #fce29e;
