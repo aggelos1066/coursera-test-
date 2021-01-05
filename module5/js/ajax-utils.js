@@ -32,6 +32,7 @@ ajaxUtils.sendGetRequest =
       };
     request.open("GET", requestUrl, true);
     request.send(null); // for POST only
+    console.log(request);
   };
 
 
